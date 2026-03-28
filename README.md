@@ -9,16 +9,9 @@
   技术栈：Rust。亮点：高性能、可配置的 DNS 处理引擎，适合替代/扩展现有 DNS 转发方案。  
   [![forgedns stars](https://img.shields.io/github/stars/SvenShi/forgedns?style=social)](https://github.com/SvenShi/forgedns) [![forgedns downloads](https://img.shields.io/github/downloads/SvenShi/forgedns/total)](https://github.com/SvenShi/forgedns/releases)
 
-- [mosdns](https://github.com/SvenShi/mosdns) — 一个 DNS 转发器（此仓库为我 fork 并改造，基于上游添加了 OSPF 插件与若干定制改进）。  
-  技术栈：Go。亮点：轻量、高效的 DNS 转发与策略实现。  
-  [![mosdns stars](https://img.shields.io/github/stars/SvenShi/mosdns?style=social)](https://github.com/SvenShi/mosdns) [![mosdns downloads](https://img.shields.io/github/downloads/SvenShi/mosdns/total)](https://github.com/SvenShi/mosdns/releases)
-
-- [ospf-neighbor](https://github.com/SvenShi/ospf-neighbor) — A simple OSPF neighbor adder。  
-  技术栈：Go、Python。亮点：OSPF 自动化工具，简化邻居添加流程。
-
-- [ospf-bypass](https://github.com/SvenShi/ospf-bypass) — 基于 OSPF 动态路由的网络分流方案。  
-  技术栈：Shell。亮点：用于快速旁路/网络操作的自动化脚本。
-
+- [forgedns-bypass](https://github.com/SvenShi/forgedns-bypass) — 基于 ForgeDNS + RouterOS 的网络分流方案。  
+  亮点：网络策略分流
+  
 - [sven_ninja](https://github.com/SvenShi/sven_ninja) — 对 ninja / 青龙 环境变量管理工具的前端改造与权限调整。  
   技术栈：Vue、JavaScript。亮点：改善环境变量管理体验与管理员权限交互。
 
