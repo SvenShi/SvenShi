@@ -14,10 +14,12 @@
   [![forgedns-bypass stars](https://img.shields.io/github/stars/SvenShi/forgedns-bypass?style=social)](https://github.com/SvenShi/forgedns-bypass)
   
 - [sven_ninja](https://github.com/SvenShi/sven_ninja) — 对 ninja / 青龙 环境变量管理工具的前端改造与权限调整。  
-  技术栈：Vue、JavaScript。亮点：改善环境变量管理体验与管理员权限交互。
+  技术栈：Vue、JavaScript。亮点：改善环境变量管理体验与管理员权限交互。  
+  [![sven_ninja stars](https://img.shields.io/github/stars/SvenShi/sven_ninja?style=social)](https://github.com/SvenShi/sven_ninja)
 
 - [IfsSnowHelper](https://github.com/SvenShi/IfsSnowHelper) — IDEA 插件：Snow 框架助手。  
-  技术栈：Java。亮点：IDE 代码/模板辅助，提高开发效率。
+  技术栈：Java。亮点：IDE 代码/模板辅助，提高开发效率。  
+  [![IfsSnowHelper stars](https://img.shields.io/github/stars/SvenShi/IfsSnowHelper?style=social)](https://github.com/SvenShi/IfsSnowHelper)
 
 ---
 
