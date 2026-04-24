@@ -33,7 +33,6 @@
 ---
 
 ## 联系方式
-- GitHub: [SvenShi](https://github.com/SvenShi)  
 - 邮箱：isvenshi@gmail.com
 
 ---
