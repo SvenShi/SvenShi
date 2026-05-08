@@ -27,7 +27,6 @@
 - 语言：Java、Rust、JavaScript、Go、Shell  
 - 前端：Vue.js、常见前端工具链  
 - 后端：Spring Boot / JakartaEE、API 设计  
-- 工具：IntelliJ IDEA 插件开发、Docker、Node.js、Git/GitHub 工作流  
 - 强项：高性能实现、系统架构设计、日志/堆栈分析、问题定位与修复
 
 ---
